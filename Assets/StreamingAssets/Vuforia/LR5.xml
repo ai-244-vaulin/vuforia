@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="chess_board" size="10.000000 10.099010" />
+    <ImageTarget name="ar_marker_test1" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
